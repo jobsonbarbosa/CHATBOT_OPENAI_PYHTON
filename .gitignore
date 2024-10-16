@@ -1,0 +1,4 @@
+.env
+*.env
+venv
+curso_2_openai
